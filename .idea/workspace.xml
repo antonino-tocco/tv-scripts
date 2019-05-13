@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11c06b4-1e38-4ebf-801e-6a606faef5fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/dlnd_tv_script_generation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/dlnd_tv_script_generation-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dlnd_tv_script_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dlnd_tv_script_generation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preprocess.p" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.p" afterDir="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -37,6 +37,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -53,13 +54,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeplearning/sentiment-analysis-network" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -93,18 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1557586595540</updated>
       <workItem from="1557586596802" duration="2534000" />
-      <workItem from="1557593325849" duration="2109000" />
+      <workItem from="1557593325849" duration="4784000" />
+      <workItem from="1557680484395" duration="1289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4643000" />
+    <option name="totallyTimeSpent" value="8607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -118,7 +118,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -132,9 +132,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/dlnd_tv_script_generation.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/dlnd_tv_script_generation.ipynb" />
     <entry file="file://$PROJECT_DIR$/dlnd_tv_script_generation.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
